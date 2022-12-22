@@ -1,4 +1,4 @@
-# API_Automation_Cucumber_BDD
+# API Rest Assured Automation Testing Cucumber BDD Project
 
 ### Rest API Automation Framework using Cucumber BDD 
 
